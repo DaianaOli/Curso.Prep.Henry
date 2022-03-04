@@ -1,17 +1,18 @@
 h1{
-    color:rgb(7, 7, 7)
+    color:rgb(17, 17, 19)
 }
 img{
     width: 400px;
 }
 #thirdDiv{
 
-   height: 600px; 
+   height: 900px; 
     width: 500px;
-    background-color: rgba(228, 232, 241, 0.664);
+    background-color: rgba(241, 240, 168, 0.863);
     font-style: oblique; 
     font-size: larger;
     border-color: blanchedalmond;
+    border: thick double #32a1ce;
 }
 #spanId{
     font-size: 18px;
@@ -20,10 +21,10 @@ img{
     font-style: oblique;
 }
 .divClass{
-padding: 50px;
-border: 2px solid rgba(7, 9, 121, 0.822);
+padding: 50px rgb(40, 40, 83); 
+border: 2px solid rgba(13, 13, 65, 0.822);
 
 }
 h3{
-    color: rgb(2, 2, 2);
+    color: rgb(2, 3, 3);
 }
